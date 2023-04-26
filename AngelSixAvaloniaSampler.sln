@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelSixAvaloniaSampler", "AngelSixAvaloniaSampler\AngelSixAvaloniaSampler\AngelSixAvaloniaSampler.csproj", "{BCD9941A-29C0-4F2F-8D76-14B1FDD27446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelSixAvaloniaSampler.Android", "AngelSixAvaloniaSampler\AngelSixAvaloniaSampler.Android\AngelSixAvaloniaSampler.Android.csproj", "{B9688801-7EE2-469E-AC75-D55641658EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelSixAvaloniaSampler.Desktop", "AngelSixAvaloniaSampler\AngelSixAvaloniaSampler.Desktop\AngelSixAvaloniaSampler.Desktop.csproj", "{CDA63C54-0CF1-4BD1-AC16-477645E7DBD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelSixAvaloniaSampler.iOS", "AngelSixAvaloniaSampler\AngelSixAvaloniaSampler.iOS\AngelSixAvaloniaSampler.iOS.csproj", "{5524E3DF-DF4A-474D-A5FF-56E66F41D6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelSixAvaloniaSampler.Web", "AngelSixAvaloniaSampler\AngelSixAvaloniaSampler.Web\AngelSixAvaloniaSampler.Web.csproj", "{FAA9A1A2-E612-4C4B-AEDC-93B59EEE3740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD9941A-29C0-4F2F-8D76-14B1FDD27446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD9941A-29C0-4F2F-8D76-14B1FDD27446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD9941A-29C0-4F2F-8D76-14B1FDD27446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD9941A-29C0-4F2F-8D76-14B1FDD27446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9688801-7EE2-469E-AC75-D55641658EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9688801-7EE2-469E-AC75-D55641658EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9688801-7EE2-469E-AC75-D55641658EF6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9688801-7EE2-469E-AC75-D55641658EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9688801-7EE2-469E-AC75-D55641658EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9688801-7EE2-469E-AC75-D55641658EF6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CDA63C54-0CF1-4BD1-AC16-477645E7DBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA63C54-0CF1-4BD1-AC16-477645E7DBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA63C54-0CF1-4BD1-AC16-477645E7DBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA63C54-0CF1-4BD1-AC16-477645E7DBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5524E3DF-DF4A-474D-A5FF-56E66F41D6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5524E3DF-DF4A-474D-A5FF-56E66F41D6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5524E3DF-DF4A-474D-A5FF-56E66F41D6FE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5524E3DF-DF4A-474D-A5FF-56E66F41D6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5524E3DF-DF4A-474D-A5FF-56E66F41D6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5524E3DF-DF4A-474D-A5FF-56E66F41D6FE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FAA9A1A2-E612-4C4B-AEDC-93B59EEE3740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA9A1A2-E612-4C4B-AEDC-93B59EEE3740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA9A1A2-E612-4C4B-AEDC-93B59EEE3740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA9A1A2-E612-4C4B-AEDC-93B59EEE3740}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EE40F07-B6A4-495A-A7AD-378FB0E1CD8D}
+	EndGlobalSection
+EndGlobal
